@@ -1,5 +1,8 @@
-# Plex-Chromecast-Ultra / Chromecast  Profile
-chromecast.xml for chromecast ultra to direct stream 4K HEVC and lower
+# Plex-Chromecast-Ultra / Chromecast Profile
+This is a modified Chromecast.xml profile for Plex that is specific to the Chromecast Ultra. This allows you to set up custom 'optimise' targets.
 
+Information updated from:
+https://en.wikipedia.org/wiki/Comparison_of_video_container_formats
+https://developers.google.com/cast/docs/media
 
-i made t his chromecast.xml so that i could stream 4K,1080p,etc  HEVC/h.265 and what not without transcoding using my plex to my chromecast ultra.  thats it, its not that special but it works great for me and i wanted to share with those that were having the same difficulties i was having.
+If any of the information in this profile seems wrong, please open a PR or issue to fix it. I had to make some guesses in places.
